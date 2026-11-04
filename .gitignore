@@ -1,0 +1,28 @@
+# Generated build trees
+**/build/
+**/cmake-build-*/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/.vs/
+
+# Local secrets and credentials
+**/.env
+**/.env.*
+!**/.env.example
+**/secrets/
+**/*.pem
+**/*.key
+**/*.p12
+**/*.pfx
+
+# Temporary and backup files
+**/*.log
+**/*.bak
+**/*.bak.*
+**/*.swp
+**/*.swo
+**/*~
+
+# Operating system metadata
+**/.DS_Store
+**/Thumbs.db

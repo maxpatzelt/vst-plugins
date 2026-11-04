@@ -1,0 +1,9 @@
+[submodule "DubWise"]
+	path = DubWise
+	url = https://github.com/maxpatzelt/DubWise.git
+[submodule "SDR-VST"]
+	path = SDR-VST
+	url = https://github.com/maxpatzelt/rtl-sdr-vst3.git
+[submodule "RandomDriftDelay/JUCE"]
+	path = RandomDriftDelay/JUCE
+	url = https://github.com/juce-framework/JUCE.git
